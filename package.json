@@ -20,7 +20,7 @@
       {
         "label": "Emphasis Dark",
         "uiTheme": "vs-dark",
-        "path": ".themes/emphasis-theme.json"
+        "path": ".themes/emphasistheme.json"
       }
     ]
   },
