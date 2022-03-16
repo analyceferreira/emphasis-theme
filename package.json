@@ -1,0 +1,31 @@
+{
+  "name": "emphasis-theme",
+  "version": "1.0.0",
+  "description": "Theme Emphasis Dark for programmers",
+  "icon": "assets/icon-emphasis-theme-vs-code-by-analyce-ferreira-dapont-128.png",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "keywords": ["theme", "theme dark vscode", "dark", "for vscode", "vscode", "tema Analyce", "tema", "Analyce Ferreira", "Emphasis"],
+  "author": "Analyce Ferreira",
+  "publisher": "EmphasisTheme",
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Emphasis Dark",
+        "uiTheme": "vs-dark",
+        "path": ".themes/emphasis-theme.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vsce": "^2.7.0"
+  }
+}
