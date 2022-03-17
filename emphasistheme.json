@@ -1,9 +1,9 @@
 {
-  "name": "Palenight (Mild Contrast)",
-  "author": "Olaolu Olawuyi",
-  "maintainers": ["Olaolu Olawuyi <mrolaolu@gmail.com>"],
+  "name": "emphasis-theme",
+  "author": "Analyce Ferreira",
+  "maintainers": ["Analyce Ferreira"],
   "type": "dark",
-  "semanticClass": "palenight-mild-contrast",
+  "semanticClass": "emphasistheme",
   "colors": {
     "contrastActiveBorder": null,
     "contrastBorder": "#2C2F40",

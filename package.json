@@ -25,7 +25,6 @@
         "label": "Emphasis Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/emphasistheme.json"
-
       }
     ]
   },
