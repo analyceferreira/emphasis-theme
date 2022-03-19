@@ -50,5 +50,5 @@ See something strange? Please report [here](https://github.com/analyceferreira/e
 This theme is released under the [MIT License].
 
 Designed by **[Analyce Ferreira](https://analyceferreira.com.br)** in **[Sinop - MT, Brazil](https://www.google.com/maps/place/sinop)**. 
-follow me on **GitHub** 
+Follow me on **[GitHub](https://github.com/analyceferreira/)** 
 
