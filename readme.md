@@ -6,7 +6,7 @@
 
 An elegant theme for Visual Studio Code that uses colors to emphasize code points and help you understand better the logic code and find syntax errors more easily.
 
-[![vscode](https://img.shields.io/badge/vscode-v1.18+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12) [![made in brazil](https://img.shields.io/badge/made%20in-brasil-008751.svg?style=for-the-badge)](https://www.google.com/maps/place/brazil)
+[![vscode](https://img.shields.io/badge/vscode-v1.18+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12) [![made in brazil](https://img.shields.io/badge/made%20in-brazil-008751.svg?style=for-the-badge)](https://www.google.com/maps/place/brazil)
 
 ![theme preview](https://imgur.com/0huZwJt.png)
 </div>
